@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 10,
+    "editor.renderWhitespace": "all",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.activityBar.location": "side",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "workbench.editor.closeOnFileDelete": false
+}
