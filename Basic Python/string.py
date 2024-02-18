@@ -54,8 +54,10 @@ print(str.count("ll"))  # Output: 1
           elif(condition):
                     statement 2
 
+
 '''
 
+'''
 age  = 21
 
 if(age >= 18):
@@ -63,3 +65,57 @@ if(age >= 18):
 
 elif(age <= 18):
           print("Love your mom")
+          
+'''
+'''
+marks = int(input("Enter the bus number:"))
+
+if(marks >=90):
+          grade = "A"
+elif(marks >=70):
+          grade = "B"
+elif(marks >=70):
+          grade = "C"
+else: 
+        grade = "D"
+
+print("Grade of the Bus  is ", grade)
+'''
+# Program to check even or odd
+'''
+number = int(input("Enter the number: "))
+if(number % 2 == 0):
+          print("Even Number")
+else:
+        print("Odd Number")
+
+'''
+
+'''
+
+# find the greatest of 3 numbers entered by the user
+
+num1 = int(input("Enter your 1st number:"))
+num2 = int(input("Enter your 2st number:"))
+num3 = int(input("Enter your 3st number:"))
+
+if(num1 >= num2 and num2 >= num3):
+          print("First number is largest", num1)
+if(num2 >= num3):
+        print("Second number is largest", num2)
+else:
+        print("third number is largest", num3)
+        
+'''
+
+'''
+check if a given number is multiple of 7 or not
+
+userinput = int(input("Enter any number: "))
+
+if(userinput % 7 == 0):
+          print(" The Given Number is divided by 7 and remainder was 0")
+else:
+        print("Fuck this number")
+
+        '''
